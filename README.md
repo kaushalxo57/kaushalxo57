@@ -32,10 +32,12 @@ This is where I document what I build and what I learn along the way.
 
 ---
 
-## A Bit About Me
+## Fun Facts
 
-* 🏸 Badminton
-* 🎮 Gaming
-* 🎵 The Weeknd
-* ☕ Caffeine
-* 🛠️ Learning by building
+* Cycling, badminton, and gym sessions
+* Curious about how things work
+* Enjoy exploring new technologies
+* Computer hardware enthusiast
+* Caffeine-powered builder
+* The Weeknd on repeat
+
