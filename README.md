@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kaushalxo57/kaushalxo57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there.
+
+I'm Kaushal, a Computer Science Engineering graduate currently pursuing an M.Sc. in Applied Data Science.
+
+Focused on Python automation, scripting, data analytics, and visualization.
+
+This is where I document what I build and what I learn along the way.
+
+---
+
+## Tools & Tech
+
+* Python, SQL
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Power BI, Excel
+* Git, Jupyter Notebook
+
+---
+
+## A Bit About Me
+
+* 🏸 Badminton
+* 🎮 Gaming
+* 🎵 The Weeknd
+* ☕ Caffeine
+* 🛠️ Learning by building
