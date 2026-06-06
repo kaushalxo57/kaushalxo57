@@ -34,10 +34,10 @@ This is where I document what I build and what I learn along the way.
 
 ## Fun Facts
 
-* Cycling, badminton, and gym sessions
-* Curious about how things work
-* Enjoy exploring new technologies
-* Computer hardware enthusiast
-* Caffeine-powered builder
-* The Weeknd on repeat
+- Curious by nature
+- Exploring new technologies
+- Hardware enthusiast
+- Cycling, badminton, and gym
+- Fueled by caffeine
+- The Weeknd on repeat
 
