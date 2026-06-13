@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there 😺.
+# Hey there 😺
 
 I'm Kaushal, a Computer Science Engineering graduate currently pursuing an M.Sc. in Applied Data Science.
 
